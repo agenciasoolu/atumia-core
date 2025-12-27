@@ -1,0 +1,8 @@
+{
+  "name": "Atumia Core",
+  "description": "A high-performance AI-driven SDR and CRM infrastructure focused on sales conversion and industrial precision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
